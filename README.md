@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanleigh Morales</h1>
 <h3 align="center">A passionate frontend developer from Cebu, Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanleighmorales&label=Profile%20views&color=0e75b6&style=flat" alt="stanleighmorales" /> </p>
 
@@ -26,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stanleighmorales&show_icons=true&locale=en" alt="stanleighmorales" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stanleighmorales&" alt="stanleighmorales" /></p>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
