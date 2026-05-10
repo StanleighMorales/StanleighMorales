@@ -10,7 +10,7 @@
 frontend:
   - HTML5 / CSS3 / JavaScript (ESNext)
   - TypeScript
-  - Vue.js / React / Next.js
+  - Vue.js / Next.js
 backend:
   - C# / ASP.NET Core
   - Supabase / Firebase
