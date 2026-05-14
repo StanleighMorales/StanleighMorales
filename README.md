@@ -8,7 +8,7 @@
 
 ```yaml
 frontend:
-  - HTML5 / CSS3 / JavaScript (ESNext)
+  - HTML / CSS / JavaScript (ESNext)/ Typescript
   - TypeScript
   - Vue.js / Next.js
 backend:
