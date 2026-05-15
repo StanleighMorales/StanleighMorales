@@ -8,14 +8,15 @@
 
 ```yaml
 frontend:
-  - HTML / CSS / JavaScript (ESNext)/ Typescript
+  - HTML / CSS / JavaScript (ESNext)
   - TypeScript
   - Vue.js / Next.js
 backend:
   - C# / ASP.NET Core
   - Supabase / Firebase
 databases:
-  - PostgreSQL / SQLite
+  - PostgreSQL
+  - Supabase
 design_tools:
   - Figma (UI/UX)
   - Blender (3D Modeling)
