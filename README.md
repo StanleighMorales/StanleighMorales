@@ -8,7 +8,7 @@
 
 ```yaml
 frontend: (relearning)
-  - HTML / CSS / JavaScript (ESNext)
+  - HTML / CSS / JavaScript
   - TypeScript
   - Vue.js / Next.js
 backend: (relearning)
