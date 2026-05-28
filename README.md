@@ -12,7 +12,7 @@ frontend: (relearning)
   - TypeScript
   - Vue.js / Next.js
 backend: (relearning)
-  - C# / ASP.NET Core
+  - C# / ASP.NET WepAPI
   - Supabase / Firebase
 databases: (relearning)
   - PostgreSQL
