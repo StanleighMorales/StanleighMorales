@@ -7,17 +7,17 @@
 ### 🛠️ Technical Stack (Current Session)
 
 ```yaml
-frontend: (relearning)
+frontend: (relearning everything)
   - HTML / CSS / JavaScript
   - TypeScript
   - Vue.js / Next.js
-backend: (relearning)
+backend: (relearning everything)
   - C# / ASP.NET WepAPI
   - Supabase / Firebase
-databases: (relearning)
+databases: (relearning everything)
   - PostgreSQL
   - Supabase
-design_tools: (relearning)
+design_tools: (relearning everything)
   - Figma (UI/UX)
   - Blender (3D Modeling)
   - Unity (Real-time Development)
