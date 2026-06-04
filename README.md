@@ -7,17 +7,17 @@
 ### 🛠️ Technical Stack (Current Session)
 
 ```yaml
-frontend: (relearning everything, I'm just dumb)
+frontend: (relearning everything, I'm just dumbs)
   - HTML / CSS / JavaScript
   - TypeScript
   - Vue.js / Next.js
-backend: (relearning everything, I'm just dumb )
+backend: (relearning everything, I'm just dumbs )
   - C# / ASP.NET WepAPI
   - Supabase / Firebase
-databases: (relearning everything, I'm just dumb)
+databases: (relearning everything, I'm just dumbs)
   - PostgreSQL
   - Supabase
-design_tools: (relearning everything, I'm just dumb)
+design_tools: (relearning everything, I'm just dumbs)
   - Figma (UI/UX)
   - Blender (3D Modeling)
-  - Unity (Real-time Development, I'm just dumb)
+  - Unity (Real-time Development, I'm just dumbs)
