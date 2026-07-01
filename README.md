@@ -10,7 +10,7 @@
 frontend:
   - HTML / CSS / JavaScript
   - TypeScript
-  - Vue.js / Next.js /React Native
+  - Vue.js /Quasar.js / Next.js /React Native
 backend:
   - C# / ASP.NET Web API Entity Framework
   - Supabase / Firebase
