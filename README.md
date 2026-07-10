@@ -13,7 +13,7 @@ frontend:
   - Vue.js /Quasar.js / Next.js /React Native
 backend:
   - C# / ASP.NET Web API Entity Framework
-  - Supabase / Firebase
+  - Supabase / Firebase / Pocketbase
 databases:
   - PostgreSQL
   - Supabase
