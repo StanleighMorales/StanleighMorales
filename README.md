@@ -22,3 +22,4 @@ design/tools
   - Blender (3D Modeling)
   - Unity
   - Godot Engine
+  - Asprite
