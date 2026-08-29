@@ -7,19 +7,22 @@
 ### 🛠️ Technical Stack
 
 ```yaml
-frontend:
+Frontend:
   - HTML / CSS / JavaScript
   - TypeScript
   - Vue.js /Quasar.js / Next.js /React Native
-backend:
+Backend:
   - C# / ASP.NET Web API Entity Framework
   - Supabase / Firebase / Pocketbase
-databases:
+Databases:
   - PostgreSQL
   - Supabase
-design/tools
+Design/tools
   - Figma (UI/UX)
-  - Blender (3D Modeling)
+Game Engine
   - Unity
   - Godot Engine
+3D/2D Modeling/Animation
+  - Blender (3D Modeling)
   - Asprite
+
